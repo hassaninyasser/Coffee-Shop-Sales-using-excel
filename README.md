@@ -4,3 +4,10 @@
 
 <h2 align="left">Business Questions</h2>
 
+- Total sales of each store?
+- Total quantity sold according to the type of product?
+- Total transaction qty per Product category?
+- Total transactions qty per hours?
+- Most sold product type?
+- Totel units price per product category?
+
